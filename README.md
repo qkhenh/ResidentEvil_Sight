@@ -1,12 +1,11 @@
-# 🎮 CodeAlpha Steam Analytics
+# 🎮 Steam Reviews Analytics Pipeline
 
-![CodeAlpha Badge](https://img.shields.io/badge/Internship-CodeAlpha-blue)
 ![Data Analytics](https://img.shields.io/badge/Domain-Data_Analytics-success)
 ![Python](https://img.shields.io/badge/Python-3.9+-yellow)
 
 ## 📌 Project Overview
 
-**Data Analytics** internship project at CodeAlpha — building a simple End-to-End Data Pipeline to analyze player reviews on Steam.
+A fun side project exploring **Data Analytics** by building a simple End-to-End Data Pipeline to analyze player reviews on Steam.
 
 **Topic:** Player reviews for the **Resident Evil** series on Steam.
 
@@ -69,7 +68,7 @@ Run sequentially:
 ## 📂 Repository Structure
 
 ```text
-CodeAlpha_DataAnalytics/
+[Project_Name]/
 │
 ├── data/
 │   ├── raw_steam_data.csv       # Output Task 1 (Web Scraping)
